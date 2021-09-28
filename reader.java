@@ -1,7 +1,7 @@
 package maioanh;
 
 public class reader {
-
+// abc
 	private String madocgia;
 	private String tendocgia;
 	private String diachi;
